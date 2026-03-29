@@ -161,6 +161,12 @@
         <mxCell id="zwTIyL89zGDYqjC-ciAP-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="(1..*)" vertex="1">
           <mxGeometry height="30" width="60" x="370" y="390" as="geometry" />
         </mxCell>
+        <mxCell id="zwTIyL89zGDYqjC-ciAP-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;Name: Jia Zhuofan&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="80" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="zwTIyL89zGDYqjC-ciAP-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;&lt;font dir=&quot;auto&quot; style=&quot;vertical-align: inherit;&quot;&gt;ID：35830506&lt;/font&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="180" x="55" y="570" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
